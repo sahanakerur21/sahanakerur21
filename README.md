@@ -3,11 +3,14 @@
 
 - 🔭 I’m currently studying **CSE**
 
-- 🌱 I’m currently learning **Graphic Designing**
+- 🌱 I’m currently learning **Full Stack Web Develeopment**
 
 - 💬 Ask me about **some basic stuffs about computer science**
 
-- 📫 How to reach me **sahanakerur21@gmail.com**
+- My abiliy is that:
+- I have created some beautiful websites using HTML, CSS, Bootstrap. 
+
+- 📫 How to reach me **sahanakerur2000@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
