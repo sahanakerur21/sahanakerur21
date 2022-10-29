@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahana Kerur</h1>
 <h3 align="center">A student who is passionate about exploring new things...</h3>
 
-- 🔭 I’m currently studying **CSE**
+- 🔭 I’m a **CSE** Graduate who is very much interested in solving different software development activities.
 
 - 🌱 I’m currently learning **Full Stack Web Develeopment**
 
@@ -9,7 +9,7 @@
 
 - My abiliy is that:
 - I have created some beautiful websites using HTML, CSS, Bootstrap. 
-- I have also created another website using HTML, CSS , PHP, and MYSQL.
+
 
 
 - 📫 How to reach me **sahanakerur2000@gmail.com**
